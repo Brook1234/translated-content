@@ -59,7 +59,7 @@ original_slug: Learn/HTML/Forms/The_native_form_widgets
 
 单行文本框只有一个真正的约束：如果您输入带有换行符的文本，浏览器会在发送数据之前删除这些换行符。
 
-*以下截图现实了 macOS 上的 Firefox 71 和 Safair 以及 Windows 10 上的 Chrome 79 和 Edge 18 中的默认、聚焦和禁用的文本输入框。*
+*以下截图显示了 macOS 上的 Firefox 71 和 Safair 以及 Windows 10 上的 Chrome 79 和 Edge 18 中的默认、聚焦和禁用的文本输入框。*
 
 ![Screenshot of the disabled attribute and default :focus styles on a text input in Firefox, Safari, Chrome and Edge.](disabled.png)
 
